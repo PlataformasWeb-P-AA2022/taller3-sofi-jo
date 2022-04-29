@@ -1,16 +1,22 @@
 *{
 	margin: 15px;
 	align-content: center;
-
-
 }
 
 .uno{
 	font-size: 30px; 
 	color: black;
-	display: block;
-	border-color: purple;
-	margin: 10px;
+	background-color: rgb(175, 83, 217);
+	background-size: 60px;
+	padding: 7px;
+
+}
+.mensaje{
+	background-color: whitesmoke;
+}
+
+.comentario{
+	border-bottom: solid green 2px;
 
 }
 
